@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="638c82e6-9117-44c6-acea-d58596cea783" name="Default Changelist" comment="" />
+    <list default="true" id="638c82e6-9117-44c6-acea-d58596cea783" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/goologin/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goologin/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +27,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/goologin/templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/goologin/templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/goologin" />
+      <recent name="$PROJECT_DIR$/goologin/views" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -51,5 +69,9 @@
       <screen x="0" y="23" width="2560" height="1338" />
     </state>
     <state x="957" y="524" key="com.intellij.ide.util.TipDialog/2560.383.1920.1057/0.23.2560.1338@0.23.2560.1338" timestamp="1576140202633" />
+    <state x="1578" y="334" width="683" height="714" key="find.popup" timestamp="1576547327152">
+      <screen x="0" y="23" width="2560" height="1338" />
+    </state>
+    <state x="1578" y="334" width="683" height="714" key="find.popup/2560.383.1920.1057/0.23.2560.1338@0.23.2560.1338" timestamp="1576547327152" />
   </component>
 </project>
