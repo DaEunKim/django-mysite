@@ -2,14 +2,18 @@
 {% load socialaccount %}
 {% providers_media_js %}
 
-<h1>소셜 로그인을 해봐요!</h1>
+<h1>로그인 하기 </h1>
 <a href = "/accounts/signup">회원가입</a><br>
 
 {% if user.is_authenticated %}
 <a href = "/accounts/logout">로그아웃</a>
-{{user.username}} 님이 로그인중
+<br>
+{{user.username}}님이 로그인
 
 {% else %}
-<a href=" {% provider_login_url 'google' %}">구글 로그인</a><br> 로그인 하셔야 합니다.
+<a href=" {% provider_login_url 'google' %}">구글 로그인</a>
+<br><br>
+로그인이 되어 있지 않습니다. <br>
+로그인 해주세요.
 
 {% endif %}
